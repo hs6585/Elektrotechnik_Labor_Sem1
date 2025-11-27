@@ -1,0 +1,60 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {section}{\numberline {1.1}The Need for Speed}{1}{}%
+\contentsline {subsection}{\numberline {1.1.1}Report Structure}{3}{}%
+\contentsline {chapter}{\numberline {2}Gleichstromtechnik}{5}{}%
+\contentsline {subsection}{\numberline {2.1.2}Ohmsches Gesetz}{5}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{5}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{5}{}%
+\contentsline {subsection}{\numberline {2.2.2}Mischen von Reihen- und Parallelschaltungen}{6}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{6}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{6}{}%
+\contentsline {subsection}{\numberline {2.3.2}Unbelasteter Spannungsteiler}{7}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{7}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{7}{}%
+\contentsline {subsection}{\numberline {2.4.2}Belasteter Spannungsteiler}{8}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{8}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{8}{}%
+\contentsline {subsection}{\numberline {2.5.2}Spannungsrichtige und stromrichtige Messung}{9}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{9}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{9}{}%
+\contentsline {subsection}{\numberline {2.6.2}Ersatzspannungsquelle}{10}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{10}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{10}{}%
+\contentsline {subsection}{\numberline {2.7.2}Reihenschaltung von Spannungsquellen}{11}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{11}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{11}{}%
+\contentsline {subsection}{\numberline {2.8.2}Parallelschaltung von Spannungsquellen}{12}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{12}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{12}{}%
+\contentsline {chapter}{\numberline {3}Kondensator im Wechselstromkreis}{13}{}%
+\contentsline {subsection}{\numberline {3.2.2}Lade- und Entladevorgang eines Kondensators}{13}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{13}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{13}{}%
+\contentsline {subsection}{\numberline {3.3.2}Phasenverschiebung zwischen Strom und Spannung am Kondensator}{13}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{13}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{13}{}%
+\contentsline {subsection}{\numberline {3.4.2}Kapazitiver Blindwiderstand eines Kondensators}{13}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{13}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{13}{}%
+\contentsline {subsection}{\numberline {3.7.2}Blindleistung eines Kondensators}{13}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{13}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{13}{}%
+\contentsline {chapter}{\numberline {4}Spule im Wechselstromkreis}{14}{}%
+\contentsline {subsection}{\numberline {4.2.2}Ein- und Ausschaltvorgang an einer Spule}{14}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{14}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{14}{}%
+\contentsline {subsection}{\numberline {4.3.2}Phasenverschiebung zwischen Strom und Spannung an einer Spule}{14}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{14}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{14}{}%
+\contentsline {chapter}{\numberline {5}Zusammenschaltung von Widerstand, Kondensator, Spule}{15}{}%
+\contentsline {subsection}{\numberline {5.5.2}Parallelschaltung von Widerstand und Spule}{15}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{15}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{15}{}%
+\contentsline {subsection}{\numberline {5.2.2}Reihenschaltung von Widerstand und Kondensator}{15}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{15}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{15}{}%
+\contentsline {subsection}{\numberline {5.10.2}Wirk-, Blind- und Scheinleistung}{15}{}%
+\contentsline {subsubsection}{\nonumberline Ergebnisse}{15}{}%
+\contentsline {subsubsection}{\nonumberline Diskussion}{15}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

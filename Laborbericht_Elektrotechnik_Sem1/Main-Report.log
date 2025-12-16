@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.9)  10 DEC 2025 12:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.9)  16 DEC 2025 19:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1298,53 +1298,79 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks67
 \@floatcapt=\box83
 )
+(C:\Users\hllst\AppData\Local\Programs\MiKTeX\tex/latex/svg\svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+
+(C:\Users\hllst\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+) (C:\Users\hllst\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@svg@param@lastpage=\count492
+\svg@box=\box84
+\c@svg@param@currpage=\count493
+)
+(C:\Users\hllst\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent
+.sty
+Package: transparent 2025-06-23 v1.6 Transparency with color stacks
+
+(C:\Users\hllst\AppData\Local\Programs\MiKTeX\tex/latex/transparent\transparent
+-nometadata.sty
+Package: transparent-nometadata 2025-06-23 v1.6 Transparency via pdfTeX's color
+ stack (HO)
+
+(C:\Users\hllst\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count492
-\@quotereset=\count493
+\@quotelevel=\count494
+\@quotereset=\count495
 
 LaTeX Warning: Unused global option(s):
     [DIV,paper].
 
 (Main-Report.aux
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported on input line 10.
+(babel)             Reported on input line 11.
  (chapter/introduction.aux) (chapter/Gleichstromtechnik.aux)
 (chapter/Kondensator im Wechselstromkreis.aux)
 (chapter/Spule im Wechselstromkreis.aux)
 (chapter/Zusammenschaltung von R, C, L.aux))
 \openout1 = `Main-Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
 
 (C:\Users\hllst\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count494
+\scratchcounter=\count496
 \scratchdimen=\dimen328
-\scratchbox=\box84
-\nofMPsegments=\count495
-\nofMParguments=\count496
+\scratchbox=\box85
+\nofMPsegments=\count497
+\nofMParguments=\count498
 \everyMPshowfont=\toks68
-\MPscratchCnt=\count497
+\MPscratchCnt=\count499
 \MPscratchDim=\dimen329
-\MPnumerator=\count498
-\makeMPintoPDFobject=\count499
+\MPnumerator=\count500
+\makeMPintoPDFobject=\count501
 \everyMPtoPDFconversion=\toks69
 )
 (C:\Users\hllst\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -1387,10 +1413,10 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Main-Report.bbl' not found.
 
 No file Main-Report.bbl.
-Package biblatex Info: Reference section=0 on input line 56.
-Package biblatex Info: Reference segment=0 on input line 56.
-\c@mv@tabular=\count500
-\c@mv@boldtabular=\count501
+Package biblatex Info: Reference section=0 on input line 58.
+Package biblatex Info: Reference segment=0 on input line 58.
+\c@mv@tabular=\count502
+\c@mv@boldtabular=\count503
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1432,20 +1458,20 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 56.
+or `german'. on input line 58.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 56.
+ on input line 58.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count502
-Package tocbasic Info: setting babel extension for `lol' on input line 56.
+\c@lstlisting=\count504
+Package tocbasic Info: setting babel extension for `lol' on input line 58.
 \scr@dte@lstlisting@maxnumwidth=\skip96
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
@@ -1482,31 +1508,31 @@ Package tocbasic Info: setting babel extension for `lol' on input line 56.
 <img/mci-logo-outline.pdf, id=4, 45.16875pt x 47.17625pt>
 File: img/mci-logo-outline.pdf Graphic file (type pdf)
 <use img/mci-logo-outline.pdf>
-Package pdftex.def Info: img/mci-logo-outline.pdf  used on input line 58.
+Package pdftex.def Info: img/mci-logo-outline.pdf  used on input line 60.
 (pdftex.def)             Requested size: 316.18037pt x 330.23282pt.
 LaTeX Font Info:    Font shape `T1/Gudea-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 58.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
+(Font)              scaled to size 14.4pt on input line 60.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
 
 (C:\Users\hllst\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
 
 
 (C:\Users\hllst\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/Gudea-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 58.
+(Font)              scaled to size 24.88pt on input line 60.
 LaTeX Font Info:    Font shape `T1/Gudea-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 58.
+(Font)              scaled to size 24.88pt on input line 60.
 
 
-Package array Warning: Redefining primitive column b on input line 58.
+Package array Warning: Redefining primitive column b on input line 60.
 
 
-Underfull \hbox (badness 10000) in alignment at lines 58--58
+Underfull \hbox (badness 10000) in alignment at lines 60--60
 [][] 
  []
 
@@ -1613,27 +1639,17 @@ LaTeX Font Info:    Font shape `T1/Gudea-TLF/m/n' will be
 
  (chapter/Gleichstromtechnik.tex
 chapter 2.
-Package epstopdf Info: Source file: <img/Plot.eps>
-(epstopdf)                    date: 2025-11-27 20:40:31
-(epstopdf)                    size: 127344 bytes
-(epstopdf)             Output file: <img/Plot-eps-converted-to.pdf>
-(epstopdf)                    date: 2025-11-27 20:54:14
-(epstopdf)                    size: 38747 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=img/Plot-eps-convert
-ed-to.pdf img/Plot.eps>
-(epstopdf)             \includegraphics on input line 15.
-Package epstopdf Info: Output file is already uptodate.
-<img/Plot-eps-converted-to.pdf, id=53, 564.1075pt x 438.63875pt>
-File: img/Plot-eps-converted-to.pdf Graphic file (type pdf)
-<use img/Plot-eps-converted-to.pdf>
-Package pdftex.def Info: img/Plot-eps-converted-to.pdf  used on input line 15.
-(pdftex.def)             Requested size: 334.60425pt x 260.18677pt.
+<img/Untitled.pdf, id=53, 761.84625pt x 492.84125pt>
+File: img/Untitled.pdf Graphic file (type pdf)
+<use img/Untitled.pdf>
+Package pdftex.def Info: img/Untitled.pdf  used on input line 15.
+(pdftex.def)             Requested size: 334.60425pt x 216.45224pt.
 [5
 
 
 
 
- <./img/Plot-eps-converted-to.pdf>] [6] [7] [8] [9] [10] [11]) [12]
+ <./img/Untitled.pdf>] [6] [7] [8] [9] [10] [11]) [12]
 \openout2 = `"chapter/Kondensator im Wechselstromkreis.aux"'.
 
 
@@ -1686,10 +1702,10 @@ Package logreq Info: Writing requests to 'Main-Report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46832 strings out of 467871
- 1153826 string characters out of 5418376
- 2274401 words of memory out of 5000000
- 75023 multiletter control sequences out of 15000+600000
+ 47307 strings out of 467871
+ 1165588 string characters out of 5418376
+ 2297105 words of memory out of 5000000
+ 75476 multiletter control sequences out of 15000+600000
  647795 words of font info for 104 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  122i,20n,131p,11217b,2479s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1707,9 +1723,9 @@ ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/hlls
 t/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/U
 sers/hllst/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/ms
 am10.pfb>
-Output written on Main-Report.pdf (19 pages, 214566 bytes).
+Output written on Main-Report.pdf (19 pages, 188496 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
+ 317 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

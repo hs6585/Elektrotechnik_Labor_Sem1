@@ -21,6 +21,8 @@ column-type  = one,                          % (one    | two)
 \usepackage{float}
 \usepackage{siunitx}
 \usepackage{svg}
+\usepackage{hyperref}
+\DeclareSIUnit\var{var}
 
 \sisetup{
 	locale = DE,            % Deutsche Einstellungen, z. B. Dezimalkomma
@@ -31,7 +33,7 @@ column-type  = one,                          % (one    | two)
 % there are other options on the market such as biber. Style has been chosen as IEEE but if 
 % are from another discipline, please feel free to change it.
 
-%\bibliography{references.bib}  % Here we add our file where we store our references.
+\bibliography{references.bib}  % Here we add our file where we store our references.
 %      
 % ---------------------------------------------------------------------------------------------
 
@@ -70,11 +72,9 @@ column-type  = one,                          % (one    | two)
 % ----  
 
 
-\include{chapter/introduction.tex}   % nur zur Demonstration
+\include{chapter/introduction.tex} 
 \include{chapter/Gleichstromtechnik.tex}   
-\include{chapter/Kondensator im Wechselstromkreis.tex}  
-\include{chapter/Spule im Wechselstromkreis.tex}   
-\include{chapter/Zusammenschaltung von R, C, L.tex}   
+\include{chapter/Wechselstromtechnik.tex}  
 
 
 % ---- 
@@ -89,7 +89,7 @@ column-type  = one,                          % (one    | two)
 % no substance as materials (i.e., technical drawings, patents, massive code bases).
 % ----
 
-%\printbibliography
+\printbibliography
 
 % \makeindex
 % \printnomenclature
